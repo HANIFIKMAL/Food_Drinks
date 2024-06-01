@@ -1,16 +1,17 @@
-# bv_snacks
+# Food and Drinks UI
 
-A new Flutter project.
+## This project only focus on the UI
 
-## Getting Started
+## Home Page
 
-This project is a starting point for a Flutter application.
+This project use Google Nav Bar
+<br>
+![image](https://github.com/HANIFIKMAL/Food_Drinks/assets/109122471/9de475ef-9a88-4814-8e75-8956fc7d7311)
 
-A few resources to get you started if this is your first Flutter project:
+## Order Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/HANIFIKMAL/Food_Drinks/assets/109122471/298bfe84-0769-424b-a955-8a5468e7832b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Product Info
+
+![image](https://github.com/HANIFIKMAL/Food_Drinks/assets/109122471/3b977c5b-2a53-4b9b-9aa6-d03e7dbd80c7)
